@@ -16,3 +16,5 @@
  $ sh generate.sh github
  ```
  
+ ![Docset](./assets/images/docset.png)
+ 
