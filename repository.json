@@ -1,0 +1,6 @@
+{
+  "repos": {
+    "github":"mikedeboer/node-github",
+    "connect-mongo":"kcbanner/connect-mongo"
+  }
+}
